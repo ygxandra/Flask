@@ -1,0 +1,24 @@
+.image {
+    height: 200px;
+    width: 200px;
+    border: solid 2px;
+    border-color: slategray;
+    margin-left: 42%;
+    margin-bottom: 20px;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    font-family: 'Verdana', 'Sans Serif'
+}
+
+body{
+    text-align: center;
+    background-image: url('./assets/img.jpg');
+    background-size:cover;
+}
+
+#choose{
+    margin-left: 60px;
+}
+
